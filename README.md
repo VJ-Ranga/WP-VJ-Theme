@@ -17,4 +17,4 @@ Wordpress Post Side panel
 
 Wordpress Empty Dashboard
 
-![Empty Dashboard](images/empty-dashboard.png)
+![Empty Dashboard](images/empty-wp-dashboard.png)
