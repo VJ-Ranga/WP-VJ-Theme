@@ -10,7 +10,7 @@ WordPress Login Page
 ![login pager](images/login-page.png)
 
 Wordpress Post Side panel
-![login pager](images/post-side-pnl.png)
+![Side panel](images/post-side-pnl.png)
 
 Wordpress Empty Dashboard
-![login pager](images/Dashboard.png)
+![Dashboard](images/Dashboard.png)
