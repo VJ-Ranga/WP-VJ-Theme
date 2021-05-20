@@ -21,7 +21,7 @@ require 'plugin-update-checker/plugin-update-checker.php';
 $myUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
 	'https://github.com/VJ-Ranga/WP-VJ-Theme',
 	__FILE__,
-	'wp-vj-theme'
+	'unique-plugin-or-theme-slug'
 );
 
 //Set the branch that contains the stable release.
