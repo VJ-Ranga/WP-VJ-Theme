@@ -17,3 +17,14 @@ include ('admin/admin-bar.php');
 include ('admin/admin-body.php');
 include ('login/login.php');
 
+require 'plugin-update-checker/plugin-update-checker.php';
+$myUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
+	'https://github.com/VJ-Ranga/WP-VJ-Theme',
+	__FILE__,
+	'wp-vj-theme'
+);
+
+//Set the branch that contains the stable release.
+$myUpdateChecker->setBranch('branch-name');
+
+
