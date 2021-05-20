@@ -25,6 +25,6 @@ $myUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
 );
 
 //Set the branch that contains the stable release.
-$myUpdateChecker->setBranch('branch-name');
+$myUpdateChecker->setBranch('main');
 
 
