@@ -12,5 +12,4 @@ WordPress Login Page
 Wordpress Post Side panel
 ![Side panel](images/post-side-pnl.png)
 
-Wordpress Empty Dashboard
-![](images/dashboard.png)
+
