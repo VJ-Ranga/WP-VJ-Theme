@@ -35,6 +35,9 @@ function bar_custom_styles() {
 #wpadminbar #wp-admin-bar-wp-logo>.ab-item {
     display: none;
 }
+#wpadminbar>#wp-toolbar>#wp-admin-bar-top-secondary>#wp-admin-bar-search #adminbarsearch input.adminbar-input {
+    display: none;
+}
 
 </style>';
   
