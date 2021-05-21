@@ -9,15 +9,15 @@ if ( ! defined( 'ABSPATH' ) ) {
 /**
  * select default color 
  */
-function vj_change_admin_color( $result ) {
-    return 'Midnight';
-}
-add_filter( 'get_user_option_admin_color', 'vj_change_admin_color' );
+//function vj_change_admin_color( $result ) {
+//    return 'Midnight';
+//}
+//add_filter( 'get_user_option_admin_color', 'vj_change_admin_color' );
 
 /**
  * disable color picker
  */
-remove_action( 'admin_color_scheme_picker', 'admin_color_scheme_picker' );
+//remove_action( 'admin_color_scheme_picker', 'admin_color_scheme_picker' );
 
 /**
  * footer

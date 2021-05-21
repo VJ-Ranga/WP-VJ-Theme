@@ -15,10 +15,10 @@ function custom_styles() {
 }
   #adminmenu li.menu-top {
     border: 2px;
-    background: #2d3939;
+    background: #a7c2ff6b;
     border-radius: 5px;
     margin: 5px;
-   box-shadow: 0px 10px 10px rgb(0 0 0 / 20%);
+   box-shadow: 0px 10px 10px rgb(0 0 0 / 10%);
 }
 #dashboard-widgets-wrap {
     display: none;
@@ -29,7 +29,7 @@ body.wp-admin #adminmenu .wp-submenu a, body.wp-admin #adminmenu .wp-has-current
 }
 
 body.wp-admin #adminmenu .wp-has-current-submenu .wp-submenu .wp-submenu-head, body.wp-admin #adminmenu .wp-menu-arrow, body.wp-admin #adminmenu .wp-menu-arrow div, body.wp-admin #adminmenu li.current a.menu-top, body.wp-admin #adminmenu li.wp-has-current-submenu a.wp-has-current-submenu {
-    background: #4e6b6b;
+    background: #a7c2ff6b;
     border-radius: 5px;
 }
 
@@ -41,8 +41,7 @@ body.wp-admin #adminmenu  a:hover, body.wp-admin #adminmenu li.menu-top:hover, b
 }
 
 body.wp-admin #adminmenu .opensub .wp-submenu li.current a, body.wp-admin #adminmenu .wp-submenu li.current, body.wp-admin #adminmenu .wp-submenu li.current a, body.wp-admin #adminmenu .wp-submenu li.current a:focus, body.wp-admin #adminmenu .wp-submenu li.current a:hover, body.wp-admin #adminmenu a.wp-has-current-submenu:focus+.wp-submenu li.current a {
-    font-weight: 700 !important;
-    background: #222629;
+    background: #a7c2ff29;
     border-radius: 5px;
     margin: 2px;
 }
@@ -51,13 +50,13 @@ body.wp-admin #adminmenu .opensub .wp-submenu li.current a, body.wp-admin #admin
 }
 
 body.wp-admin #adminmenu .wp-submenu, body.wp-admin #adminmenu .wp-has-current-submenu .wp-submenu, body.wp-admin #adminmenu .wp-has-current-submenu.opensub .wp-submenu, body.wp-admin #adminmenu a.wp-has-current-submenu:focus + .wp-submenu {
-    background: #2c3338;
+    //background: #323a4a;
     border-radius: 5px;
-box-shadow: 0px 10px 10px rgb(0 0 0 / 50%);
+box-shadow: 0px 10px 10px rgb(0 0 0 / 10%);
 }
 
 #post-status-info {
-    background-color: #d8d8d8;
+    background-color: #2d3939;
     border-radius: 5px;
 }
 .ai1wm-holder {
@@ -66,7 +65,7 @@ box-shadow: 0px 10px 10px rgb(0 0 0 / 50%);
 
 .ai1wm-right .ai1wm-segment {
     border-radius: 10px;
-    box-shadow: 0px 10px 10px rgb(0 0 0 / 20%);
+    box-shadow: 0px 10px 10px rgb(0 0 0 / 10%);
 }
  #adminmenu, #adminmenu .wp-submenu, #adminmenuback, #adminmenuwrap {
      width: 160px;
@@ -75,11 +74,10 @@ box-shadow: 0px 10px 10px rgb(0 0 0 / 50%);
 //admin menu panel shadow
 
 #adminmenuback {
-    box-shadow: 5px 0px 30px rgb(0 0 0 / 25%), 5px 0px 10px rgb(0 0 0 / 22%);
+   box-shadow: 5px 0px 30px rgb(0 0 0 / 25%), 5px 0px 10px rgb(0 0 0 / 22%);
 }
 
   </style>';
-  
 }
 
 

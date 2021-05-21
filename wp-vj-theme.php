@@ -3,7 +3,7 @@
  * Plugin Name: WP VJ Theme
  * Plugin URI: https://cloudycode.net/
  * Description: Simple WordPress Dashboard theme.
- * Version: 0.1.2
+ * Version: 0.1.3
  * Author: VJRanga
  * Author URI: https://vjranga.com/
  * License: GPLv2 or later
