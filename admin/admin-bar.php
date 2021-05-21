@@ -16,7 +16,7 @@ function bar_custom_styles() {
   echo '
   <style>
 #wpadminbar {
-    background: #2d3939 ;
+    //background: #2d3939 ;
     border-radius: 0px 0px 10px 10px ;
     padding: 0px 0px 5px 0px ;
     box-shadow: 5px 0px 30px rgb(0 0 0 / 25%), 5px 0px 10px rgb(0 0 0 / 22%);
